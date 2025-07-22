@@ -1,3 +1,18 @@
+# React Form Handling Project
+
+This project demonstrates form handling in React using functional components and hooks. It showcases how to manage form state, handle user inputs, and implement controlled components efficiently.
+
+## Features
+
+- Controlled components using `useState`
+- Handling text input, checkboxes, radio buttons, and dropdowns
+- Form validation basics
+- Submitting and processing form data
+- Real-time form updates
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
